@@ -16,7 +16,7 @@ class CuraConan(ConanFile):
     name = "cura"
     license = "LGPL-3.0"
     author = "Ultimaker B.V."
-    url = "https://github.com/Ultimaker/cura"
+    url = "https://github.com/vfranco-github/Cura"
     description = "3D printer / slicing GUI built on top of the Uranium framework"
     topics = ("conan", "python", "pyqt5", "qt", "qml", "3d-printing", "slicer")
     build_policy = "missing"
