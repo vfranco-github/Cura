@@ -1,4 +1,4 @@
-### Direct requirements for Uranium and libCharon ###
+### Direct requirements for Uranium and libCharon  ###
 PyQt6-sip==13.2.1 \
     --hash=sha256:b7bce59900b2e0a04f70246de2ccf79ee7933036b6b9183cf039b62eeae2b858 \
     --hash=sha256:8b52d42e42e6e9f934ac7528cd154ac0210a532bb33fa1edfb4a8bbfb73ff88b \
